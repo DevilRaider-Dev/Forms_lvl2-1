@@ -1,0 +1,28 @@
+.contactBox{
+    background-color: #F5F5F5;
+    width: 400px;
+    text-align: center;
+}
+.contactBox label{
+    display: block;
+    background-color: #5CD8A4;
+    color: white;
+    padding: 3%;
+}
+.contactBox div{
+    margin: 3% 0;
+    width: 100%;
+}
+.contactBox div input{
+    width: 310px;
+}
+.submit{
+    background-color: #5CD8A4;
+    color: white;
+    border: none;
+    padding: 2% 0;
+    margin-bottom: 2%;
+}
+.submit:hover{
+    background-color: #51C08C;
+}
